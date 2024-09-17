@@ -14,28 +14,28 @@ The project uses a dataset consisting of health metrics that are commonly associ
 ## Dependencies
 Before running the notebook, you need to install the required dependencies:
 
-\`\`\`bash
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-\`\`\`
+```
 
 ## Usage
 1. Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/kanhaiya-agrawall/Heart-RAS.git
-\`\`\`
+```
 
 2. Navigate into the project directory:
 
-\`\`\`bash
+```bash
 cd Heart-RAS
-\`\`\`
+```
 
 3. Run the Jupyter Notebook:
 
-\`\`\`bash
+```bash
 jupyter notebook Heart-RAS.ipynb
-\`\`\`
+```
 
 4. Follow the instructions in the notebook to load your data, explore visualizations, and generate predictions using machine learning models.
 
