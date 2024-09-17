@@ -22,7 +22,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 1. Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/yourusername/Heart-RAS.git
+git clone https://github.com/kanhaiya-agrawall/Heart-RAS.git
 \`\`\`
 
 2. Navigate into the project directory:
